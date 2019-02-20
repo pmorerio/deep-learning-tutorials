@@ -1,8 +1,10 @@
-The tutorial is ```nn-from-scratch.ipynb```
+## Multi-Layer Perceptron (MLP) with backpropagation
+
+To see the tutorial open ```nn-from-scratch.ipynb```
 
 [**You can read the blog post that goes with this code!**](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
-#### iPython notebook setup
+#### Installation
 
 ```bash
 # Create and activate new virtual environment (optional)
