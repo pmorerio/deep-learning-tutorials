@@ -1,2 +1,2 @@
-# MLP, backpropagation and CNN tutorials
+# MLP (with explicit backpropagation) and CNN tutorials
 Code &amp; other stuff
